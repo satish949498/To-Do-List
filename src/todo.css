@@ -1,0 +1,42 @@
+
+.todo-app{
+    width: 400px;
+    height: 700px;
+    border-radius: 10px;
+    background-color: rgb(244, 210, 20);
+
+}
+.name{
+    color: white;
+    text-align: center;
+    padding: 5px;
+    font-size: 18px;
+}
+
+.main_div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.input-section{
+    height: 30px;
+    width: 200px;
+    border: none;
+    border-radius: 5px;
+    background-color : white;
+}
+.button-section{
+    height: 30px;
+    width: 80px;
+    border: none;
+     border-radius: 5px;
+    background-color : white;
+}
+.enter-task{
+    height: 28px;
+    width: 100%;
+    margin-left: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
